@@ -1,0 +1,16 @@
+
+var ftGUID_531035="1837BAE203CBC1";
+var ftConfID_531035="0";
+var ftParams_531035="click=http://adclick.g.doubleclick.net/aclk%253Fsa%253DL%2526ai%253DBT4iX5e4uUarqJeymigaKkIHwAurKst0DAAAAEAEgouSQGzgAWNK_2IZNYPXa6oP8DrIBEXd3dy5tdW1teXBhZ2VzLmllugEJZ2ZwX2ltYWdlyAEJ2gE2aHR0cDovL3d3dy5tdW1teXBhZ2VzLmllL3ByZWduYW5jeS13ZWVrLWJ5LXdlZWsvd2Vlay0yqQKTQmL8KQ62PsACAuACAOoCHi8xOTMzMTc2Mi9SaWdodF9TaWRlX1N1cGVyX1NrefgCgdIekAPQBZgD0AWoAwHQBJBO4AQBoAYW%2526num%253D0%2526sig%253DAOD64_0uyynalGjwuygf73c6EDLUnrTG9g%2526client%253Dca-pub-4327437596062326%2526adurl%253D&ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&cachebuster=429630.07008456276";
+var ftKeyword_531035="";
+var ftCustom_531035="";
+var ftSection_531035="";
+var ftSegment_531035="";
+var ftSegmentList_531035=[];
+var ftRuleMatch_531035="0";
+var ftTimestamp_531035="1362030311";
+var ftImp531035 = {};
+ftImp531035.privacy = "x";
+
+document.write('<scr'+'ipt src="http://cdn.flashtalking.com/xre/53/531035/447777/js/j-531035-447777.js" id="ftscript_m531035" name="ftscript_m531035"></scr'+'ipt>');
+                    
